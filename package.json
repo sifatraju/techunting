@@ -1,0 +1,20 @@
+{
+  "name": "techhunting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sifat Raju sifatraju59@gmail.com",
+  "license": "ISC",
+  "liveSassCompile.settings.formats": [
+    
+    {
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "/css"
+    }
+]
+}
+ 
